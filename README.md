@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nahor006-lang/LeetCode/tree/master/0389-find-the-difference) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nahor006-lang/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nahor006-lang/LeetCode/tree/master/0389-find-the-difference) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nahor006-lang/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nahor006-lang/LeetCode/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nahor006-lang/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
