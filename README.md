@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nahor006-lang/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/nahor006-lang/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/nahor006-lang/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nahor006-lang/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nahor006-lang/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/nahor006-lang/LeetCode/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nahor006-lang/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nahor006-lang/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nahor006-lang/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nahor006-lang/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
