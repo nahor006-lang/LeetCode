@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nahor006-lang/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/nahor006-lang/LeetCode/tree/master/0389-find-the-difference) |
 | [1002-find-common-characters](https://github.com/nahor006-lang/LeetCode/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nahor006-lang/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nahor006-lang/LeetCode/tree/master/0389-find-the-difference) |
 | [1002-find-common-characters](https://github.com/nahor006-lang/LeetCode/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nahor006-lang/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nahor006-lang/LeetCode/tree/master/0389-find-the-difference) |
+| [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
 | ------- |
@@ -98,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nahor006-lang/LeetCode/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
