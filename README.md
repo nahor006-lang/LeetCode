@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nahor006-lang/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nahor006-lang/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/nahor006-lang/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/nahor006-lang/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nahor006-lang/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahor006-lang/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nahor006-lang/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/nahor006-lang/LeetCode/tree/master/0389-find-the-difference) |
 | [1002-find-common-characters](https://github.com/nahor006-lang/LeetCode/tree/master/1002-find-common-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nahor006-lang/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nahor006-lang/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nahor006-lang/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
