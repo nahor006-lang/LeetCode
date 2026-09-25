@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahor006-lang/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/nahor006-lang/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/nahor006-lang/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nahor006-lang/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahor006-lang/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/nahor006-lang/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/nahor006-lang/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
 | ------- |
