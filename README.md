@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nahor006-lang/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nahor006-lang/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1002-find-common-characters](https://github.com/nahor006-lang/LeetCode/tree/master/1002-find-common-characters) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nahor006-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nahor006-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nahor006-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nahor006-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
