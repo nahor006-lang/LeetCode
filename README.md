@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahor006-lang/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0682-baseball-game](https://github.com/nahor006-lang/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/nahor006-lang/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nahor006-lang/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1002-find-common-characters](https://github.com/nahor006-lang/LeetCode/tree/master/1002-find-common-characters) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/nahor006-lang/LeetCode/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nahor006-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/nahor006-lang/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
