@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nahor006-lang/LeetCode/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/nahor006-lang/LeetCode/tree/master/0389-find-the-difference) |
 | [1002-find-common-characters](https://github.com/nahor006-lang/LeetCode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/nahor006-lang/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nahor006-lang/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/nahor006-lang/LeetCode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/nahor006-lang/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/nahor006-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nahor006-lang/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/nahor006-lang/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nahor006-lang/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nahor006-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
