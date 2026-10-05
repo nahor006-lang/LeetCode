@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nahor006-lang/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nahor006-lang/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/nahor006-lang/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nahor006-lang/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nahor006-lang/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nahor006-lang/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nahor006-lang/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nahor006-lang/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahor006-lang/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0682-baseball-game](https://github.com/nahor006-lang/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/nahor006-lang/LeetCode/tree/master/0704-binary-search) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nahor006-lang/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nahor006-lang/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/nahor006-lang/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nahor006-lang/LeetCode/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/nahor006-lang/LeetCode/tree/master/0856-score-of-parentheses) |
